@@ -1,4 +1,4 @@
-# E-Commerce Website 
+# E-Commerce Website ( End to End )
 
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/67d1a33b-47c9-44af-bbcb-bba5c34b25c0)
 
